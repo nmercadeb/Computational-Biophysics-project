@@ -1,5 +1,6 @@
 # Computational-Biophysics-project
-Codes for the final project of the subject Computational Biophysics of the degree Engineering Physics (UPC). By Marta Alcalde i Núria Mercadé.
+Codes for the final project of the subject Computational Biophysics of the degree Engineering Physics (UPC). 
+By Marta Alcalde i Núria Mercadé.
 
 ## Briew code description:
 - AnovaNOStroke: this code analyses by means of Anova statistics test the data of mice that do not present stroke in the different test performances.
